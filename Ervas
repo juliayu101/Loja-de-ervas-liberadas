@@ -1,0 +1,16 @@
+body {
+background: aCCCCCC;
+}
+
+p {
+ text-align: center;
+front-size:20px;
+}
+
+h1 {
+text-algin center;
+}
+
+em strong {
+ color: #FF0000;
+}
