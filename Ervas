@@ -1,10 +1,13 @@
 body {
-background: aCCCCCC;
+background: #CCCCCC;
 }
-
 p {
  text-align: center;
 front-size:20px;
+}
+
+em strong {
+color: #FF0000;
 }
 
 h1 {
@@ -13,4 +16,8 @@ text-algin center;
 
 em strong {
  color: #FF0000;
+}
+
+#banner {
+width:100%;
 }
